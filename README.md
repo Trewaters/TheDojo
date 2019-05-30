@@ -18,7 +18,7 @@ The goal of the <THE_DOJO> is to show Sifus how they can improve their skill set
 
 ## Get Started
 - Create a Yatate file and submit it with a Pull Request (PR) 
-  - [Github Kata Position #1 here](./Katas/GitHub/GitHub-katas.md#position-1-join-the-dojo-initialize-yatate-file)
+  - [Github Kata Position #1 here](./Katas/GitHub/GitHub-Katas.md#position-1-join-the-dojo-initialize-yatate-file)
   - [Github code guide for Position #1 here](./Katas/GitHub/GitHub-Guide.md#position-1-join-the-dojo-initialize-yatate-file)
 - Attend a local <THE_DOJO> meetup.
   1. People who attend the meetup, in-person, are given a slack invite. Slack is used for all the sifus to stay in touch between our monthly meetups. 
@@ -29,28 +29,36 @@ The goal of the <THE_DOJO> is to show Sifus how they can improve their skill set
 Patterns that help you deepen your programming knowledge. Katas are broken into a few categories designated by a sub-folder. Each kata folder has a `...-Guide.md`, `...-Katas.md`, and a `...-Fundamentals.md` file in it.
 
 **Folder Contents**
-- `...-Katas.md` - These files have the coding katas. No code just a description of what is expected from the sifu.
-- `...-Guide.md` - The guide files will pair with the katas exactly and give hints and code on how to solve the kata. There can be multiple answers for the same kata. Only one is listed in the guide. If you would like to add yours to the guide make a pull request for it.
-- `...-Fundamentals.md` - The fundamentals file has some notes about how the language works. These are document level based bits of information. I use this as a cheat sheet for the language, reminding me about things quickly so I can keep coding.
-
-- Angular - the file in the folder doesn't have 2 lines of information. Not even really started.
-- GitHub - I have spent the most work on this set of katas.
-- MongoDB - empty at the moment.
-- Node - I started on this but it is a mess at the moment. This is before I got a structure to the idea of katas.
+- `README - Katas.md` - The coding katas. No code just a description of what is expected from the sifu.
+- `README - Guide.md` - The guide file will pair with the kata's file exactly and give hints and code on how to solve the kata. There can be multiple answers for the same kata. Only one is listed in the guide. If you would like to add yours to the guide make a pull request for it.
+- `README - Fundamentals.md` - The fundamentals file has some notes about how the language works. These are document level based bits of information. I use this as a cheat sheet for the language, reminding me about things quickly so I can keep coding.
+- `README - Belts.md` - 
 
 ## Koans
 Programming riddles to ponder. Expand your perspective and hopefully become enlightened.
 
+**Folder Contents**
+- `README - Koans.md` - 
+
 ## Meetings
 Sifu notes taken during the meeting. Make your notes helpful to others reading them in the future. Think of this like Open Source documentation. It is a great practice.
 
-Add presentations from speakers to `Presentations` folder for others to see later.
+**Folder Contents**
+- `README - Meetings.md` - 
 
 ## Projects
-Folder of code projects that <THE_DOJO> has worked on. Projects in this section have a "project lead". These project were merged into the list by the "Sifu 'Root'".
+Folder of code projects that <THE_DOJO> has worked on. Projects in this section have a "project lead". These project were merged into the list by the "Sifu **'Root'**".
+
+**Folder Contents**
+- `README - Projects.md` - How to add to projects list.
+- `openSourceList.md` - List of open source software projects the community supports.
+- `Sifu_Projects.md` - List of sifu led projects for anyone to contribute to. 
 
 ## Wuxia
 <THE_DOJO> Wuxia are things you will need to do in any language. Wuxia is split into Front End Task, Server Side Task, Database Task, Web apps, and Mobile App Task.
+
+**Folder Contents**
+- `README - Wuxia.md` - What are wuxias for <THE_DOJO>.
 
 ## Yatate
 [Step 1 for getting started](#get-started) is to create a Yatate file.
@@ -58,3 +66,6 @@ Folder of code projects that <THE_DOJO> has worked on. Projects in this section 
 The Yatate is a folder of <THE_DOJO> members to create txt or md document named after their call-sign. 
 
 The call-sign is your sifu name, the name you want to go by in the dojo. This is just for fun. It can't be the same as someone else's and should be respectful of others. The Yatate file is full of contact information for you. Read the "README - Yatate.md"
+
+**Folder Contents**
+- `README - Yatate.md` - Guidelines for addnig your sifu name and call sign to the repo.
