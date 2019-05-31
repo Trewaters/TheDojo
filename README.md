@@ -14,7 +14,6 @@ The goal of the <THE_DOJO> is to show Sifus how they can improve their skill set
 - [Projects](README.md#projects)
 - [Wuxia](README.md#wuxia)
 - [Yatate](README.md#yatate)
-- [ToDo](README.md#ToDo)
 
 ## Get Started
 - Create a Yatate file and submit it with a Pull Request (PR) 
